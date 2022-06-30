@@ -121,7 +121,7 @@ div.filho-final {
 ul{
     list-style-position: inside;
     columns: 2;
-    text-align: justify;
+    text-align: start;
     list-style-type: '\2714\00a0\00a0';
 }
 h2{
